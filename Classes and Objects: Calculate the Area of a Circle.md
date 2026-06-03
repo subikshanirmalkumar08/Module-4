@@ -14,6 +14,5 @@ To write a Python program that calculates the **area of a circle** based on the 
 
 Add code here
 
-## Output
-
+## Output 
 ## Result
